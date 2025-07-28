@@ -1,6 +1,6 @@
-name: dp-capaciteitskaart
+name: dp-energ-hubs
 description: |-
-  Information models for the Capaciteitskaart.
+  Information models for Energy Hubs
 title: Capaciteitskaart
 id: http://data.netbeheernederland.nl/data-product/dp-capaciteitskaart
 license: https://www.apache.org/licenses/LICENSE-2.0.txt
