@@ -1,0 +1,6 @@
+name: dp-aangeslotenenregister
+title: Aangeslotenenregister
+version: true
+type: data-model
+nav:
+- modules/ROOT/nav.adoc
