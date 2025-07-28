@@ -1,3 +1,3 @@
-# Capaciteitskaart
+# Energy Hubs
 
 ...
